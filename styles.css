@@ -1,0 +1,115 @@
+body {
+    margin: 0 auto;
+    height: 100%;
+    font-size: 20px;
+}
+
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+header {
+    background-color: #A0CED9;
+    padding: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    list-style: none;
+    font-size: 18px;
+}
+
+.links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.section-one {
+    background-color: #A0CED9;
+    padding: 60px;
+}
+
+.acnh {
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.acnh-img {
+    width: 150px;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+.todo {
+    display: flex;
+    flex-direction: row;
+    padding: 60px;
+    text-align: center;
+}
+
+
+h4 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 5px;
+}
+
+.quote2 {
+    padding: 60px;
+    background-color: #FCF5C7;
+    font-size: 36px;
+    font-style: italic;
+    margin: 0;
+}
+
+
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background-color: pink;
+    margin: 0;
+}
+
+.btn {
+    margin-left: 30px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+.action {
+    text-align: center;
+}
+.copyright {
+    margin: 0;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: #A0CED9;
+    
+}
+
+
+
+
+
